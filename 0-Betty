@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include "shell.h"
+/**
+* multiply - Return the product of two integers.
+* @num1: first integer.
+* @num2: second integer.
+*
+* Return: the result of multiplication
+*/
+int multiply(int num1, int num2)
+{
+	return (num1*num2);
+}
